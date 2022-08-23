@@ -1,0 +1,15 @@
+/* To make the navbar stay at the top, target the header (container) with position fixed */
+
+header {
+  position: fixed;
+  /* The navbar contracts to its default width, so set its width to the full width of the page. */
+  width: 100%;
+  /* Depending on the display properties of the other elements, you may need to manually set the top and left positions of the navbar. */
+  top: 0;
+  left: 0;
+  /* Extras styling */
+  background-color: #aa5613;
+  color: white;
+  font-family: sans-serfi;
+  padding: 1em;
+}
