@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Fraunces:opsz,wght@9..144,700&family=Inter:wght@400;700&family=Kumbh+Sans:wght@400;700&family=Lexend+Deca&family=Montserrat:wght@500;700&family=Mulish:wght@400;700&family=Outfit:wght@300;400;600;700&family=Poppins:ital,wght@0,200;0,400;0,600;1,200&family=Red+Hat+Display:wght@500;700;900&family=Roboto:ital,wght@0,100;0,700;1,400&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Outfit, sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+}
+
+.container {
+  max-width: 360px;
+  margin: 0 auto;
+  /* border: 5px solid black; */
+  /* background-color:hsl(0,0%,100%); */
+}
+
+.card {
+  background-color: hsl(0, 0%, 100%);
+  padding: 18px;
+  border-radius: 17px;
+  /* border: 5px solid orange; */
+  text-align: center;
+  margin: 0 1em;
+
+}
+
+  .card img {
+    width: 100%;
+    /* border: 3px dashed blue; */
+    border-radius: 12px;
+    /* padding: 20px; */
+  }
+
+.text {
+  padding: 22px 10px;
+}
+
+.text h2 {
+  color: hsl (218, 44%, 22%);
+  padding-bottom: 15px;
+
+}
+
+.text p {
+  color: hsl(220, 15%, 55%);
+}
