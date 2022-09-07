@@ -14,7 +14,7 @@
 ### Day 2: September 07, 2022
 **Today's Goals**:
   - CodeWars
-    - Do 5 Katas
+    - Do 5 Katas from [here](https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015)
   - Read
     - [OOP Meaning](https://www.freecodecamp.org/news/what-is-object-oriented-programming/)
     - [Essential JavaScript String Methods](https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961)
