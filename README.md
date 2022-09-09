@@ -11,7 +11,7 @@
 **Thoughts:**
  - Today was more about setting up for the future than completing tasks. The only major task that need to be completed was my 5 codewars per day. Over the next few days I will be going in overdrive to make it out of the catch up crew and graduate 100Devs with all assignments completed and all requirements met. 
  
-### Day 2: September 07, 2022
+### Day 2: September 09, 2022
 **Today's Goals**:
   - CodeWars
     - Do 5 Katas from [here](https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015)
