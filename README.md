@@ -22,6 +22,9 @@
     - [Essential JavaScript String Methods](https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961)
     - [JavaScript Coding Interview Practice](https://www.freecodecamp.org/news/javascript-coding-interview-practice/)
     - [JavaScript DOM Tutorial](https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/)
+    - [Components and Props](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
+    - [JavaScript's arrow functions explained by going down a slide](https://www.freecodecamp.org/news/javascripts-arrow-functions-explained-by-going-down-a-slide-2eb8ee3c45e/)
+    - [Using the state Hook](https://reactjs.org/docs/hooks-state.html)
     
 **Today's Progress**: 
   - 
