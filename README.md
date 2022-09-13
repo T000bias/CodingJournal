@@ -15,6 +15,7 @@
 **Today's Goals**:
   - freeCodeCamp
     - **Completed** [React for JavaScript](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=1s)
+    
   - CodeWars
     - **Completed** Do 5 Katas from [here](https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015)
   
@@ -25,6 +26,17 @@
  
 ### Day 3: September 13, 2022
 **Today's Goals**:
+  
+  - freeCodeCamp
+    - Finish First Project: [React for JavaScript](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=1s)
+    
+ - Watch
+    - [5 Projects You Can Build In a Week That Will Get You Hired](https://www.youtube.com/watch?v=oluY633rkgI&t=28s)
+    - [Generate Bootstrap Studio Project File From HTML](https://www.youtube.com/watch?v=hiktQHpkJqQ)
+    - [Simple Weight Converter App with JavaScript & Bootstrap](https://www.youtube.com/watch?v=7l-ZAuU8TXc)
+    - [React Bootstrap Tutorial](https://www.youtube.com/watch?v=8pKjULHzs0s)
+    - [React + Bootstrap 5 - Let's build a real page](https://www.youtube.com/watch?v=l2131Rok8XU)
+
    - CodeWars
     - Do 5 Katas from [here](https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015)
     
@@ -44,18 +56,13 @@
     
 ### Day 4: TBA
 **Today's Goals**:
-  - Watch
-    - [5 Projects You Can Build In a Week That Will Get You Hired](https://www.youtube.com/watch?v=oluY633rkgI&t=28s)
-    - [Generate Bootstrap Studio Project File From HTML](https://www.youtube.com/watch?v=hiktQHpkJqQ)
-    - [Simple Weight Converter App with JavaScript & Bootstrap](https://www.youtube.com/watch?v=7l-ZAuU8TXc)
-    - [React Bootstrap Tutorial](https://www.youtube.com/watch?v=8pKjULHzs0s)
-    - [React + Bootstrap 5 - Let's build a real page](https://www.youtube.com/watch?v=l2131Rok8XU)
-    
+ 
   - Read
     - [React Documentation: Main Concepts](https://reactjs.org/docs/hello-world.html)
       - Introducing JSX
       - Rendering Elements
       - Components and Props
+      
   - CodeWars
     - Do 5 Katas from [here](https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015)
  
