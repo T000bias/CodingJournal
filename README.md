@@ -23,7 +23,8 @@
   - Started my React training from freeCodeCamp and I am completely lost, but that is part of the journey of being a software engineer. On top of learning react I also decided to learn bootstrap just to understand a CSS framework. Also did my 5 katas for today.
   
 **Thoughts:**
- 
+  - Today was fine, still dealing my constant procrastination. Tomorrow, I will try a different location to see if I can get into the zone there.
+  
 ### Day 3: September 13, 2022
 **Today's Goals**:
   
