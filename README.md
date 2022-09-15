@@ -33,32 +33,42 @@
     
   
     
-### Day 4: TBA
+### Day 4: September 14, 2022
 **Today's Goals**:
- 
-  - Read
-    - [React Documentation: Main Concepts](https://reactjs.org/docs/hello-world.html)
-      - Introducing JSX
-      - Rendering Elements
-      - Components and Props
-      
-  - CodeWars
-    - Do 5 Katas from [here](https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015)
+
+  - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/introduction/)
+    - Basics
+    - Search
+    - Sort
+    - Arrays
+    - Recursion
+    - Quick Sort
+    - Doubly Linked List
+    - Trees
+    - Trees Search
+    - Heap
+    - Graphs
+    - Maps & LRU
+    
+  - [React Documentation: Main Concepts](https://reactjs.org/docs/hello-world.html)  
+  - [CodeWars]()
+  - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+  - [Algorithms & Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
+  - [Big O Notation](https://www.youtube.com/watch?v=Mo4vesaut8g)
+  - [Recursion in Programming](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+  - [10 Common Coding Interview Problems Solved](https://www.youtube.com/watch?v=Peq4GCPNC5c)
+  - [Greedy Algorithms Tutorial - Solve Coding Challenges](https://www.youtube.com/watch?v=bC7o8P_Ste4)
+  - [Binary Tree Algorithms for Technical Interviews](https://www.youtube.com/watch?v=fAAZixBzIAI)
+  - [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
  
  ---
  
  ### Docket ###
- - freeCodeCamp
-    - Finish First Project: [React for JavaScript](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=1s)
-    
- - Watch
     - [5 Projects You Can Build In a Week That Will Get You Hired](https://www.youtube.com/watch?v=oluY633rkgI&t=28s)
     - [Generate Bootstrap Studio Project File From HTML](https://www.youtube.com/watch?v=hiktQHpkJqQ)
     - [Simple Weight Converter App with JavaScript & Bootstrap](https://www.youtube.com/watch?v=7l-ZAuU8TXc)
     - [React Bootstrap Tutorial](https://www.youtube.com/watch?v=8pKjULHzs0s)
     - [React + Bootstrap 5 - Let's build a real page](https://www.youtube.com/watch?v=l2131Rok8XU)
-
-  - Read
     - [5 Steps to Build React components like a pro](https://blog.bitsrc.io/5-steps-to-build-react-components-like-a-pro-fb1f3af6ba17)
     - [OOP Meaning](https://www.freecodecamp.org/news/what-is-object-oriented-programming/)
     - [Essential JavaScript String Methods](https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961)
