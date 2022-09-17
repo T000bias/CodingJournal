@@ -33,18 +33,135 @@
     
   
     
-### Day 4: September 15, 2022
+### Day 4: September 16, 2022
 **Today's Goals**:
 
   - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/introduction/)
+    - Basics
+   
   - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+  
   - [Project Euler](https://projecteuler.net/archives)
+  
   - [Topcoder Skill Builder Competition | JavaScript Learning](https://www.topcoder.com/challenges/d0784afd-7a8a-4fef-a0a6-a4743571797e?utm_source=dashboard+&utm_medium=/home&utm_campaign=[+]+games+skill+builder+)
   
-
-    
+  - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+    - Section 1: Introduction
+    - Section 2: Day 1 - Expanding Cards
+   
+  - [JavaScript30](https://javascript30.com/)
+    - Getting Setup
+    - JavaScript Drum Kit
   
- 
+### Day 5: September 17, 2022
+**Today's Goals**:
+    
+    - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/introduction/)
+      - Basics Review (Watch Video Again)
+      
+    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+      - Section 3: Progress Steps
+        - Implement in Coming Soon Page
+      - Section 2: Day 1 Review
+
+  - [JavaScript30](https://javascript30.com/)
+    - CSS + JS Clock
+    - JavaScript Drum Kit Review
+    
+    
+### Day 6: September 18, 2022
+**Today's Goals**:
+   
+   - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/introduction/)
+      - Basics Review (Watch Video Again)
+      
+    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+      - Section 4: Day 3 - Rotating Navigation
+        - Implement in Coming Soon Page
+      - Section 3: Day 2 Review
+
+
+### Day 7: September 19, 2022
+**Today's Goals**:
+
+    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+      - Section 5: Day 4 - Rotating Navigation
+      - Section 4: Day 3 Review
+
+  - [JavaScript30](https://javascript30.com/)
+    - Playing with CSS Variables and JS
+    - CSS + JS Clock Review
+
+
+
+### Day 8: September 20, 2022
+**Today's Goals**:
+  
+    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+      - Section 6: Day 5 - Blurry Loading
+      - Section 5: Day 4 Review
+      
+    - [JavaScript30](https://javascript30.com/)
+      - Array Cardio Day 1
+      - Playing with CSS Variables and JS Review
+
+### Day 9: September 21, 2022
+**Today's Goals**:
+
+    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+      - Section 7: Day 6 - Scroll Animation
+      - Section 6: Day 5 Review
+      
+  - [JavaScript30](https://javascript30.com/)
+    - Flex Panels Image Gallery
+    - Array Cardio Day 1 Review
+
+### Day 10: September 22, 2022
+**Today's Goals**:
+
+    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+      - Section 8: Day 7 - Split Landing Page
+      - Section 7: Day 6 Review
+
+  - [JavaScript30](https://javascript30.com/)
+    - Ajax Type Ahead
+    - Flex Panels Image Gallery Review
+
+### Day 11: September 23, 2022
+**Today's Goals**:
+
+    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+      - Section 9: Day 8 - Form Wave Animation
+      - Section 8: Day 7 Review
+
+  - [JavaScript30](https://javascript30.com/)
+    - Array Cardio Day 2
+    - Ajax Type Ahead Review
+
+### Day 12: September 24, 2022
+**Today's Goals**:
+
+    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+      - Section 10: Day 9 - Sound Board
+      - Section 9: Day 8 Review
+
+  - [JavaScript30](https://javascript30.com/)
+    - Fun with HTML5 Canvas
+    - Array Cardio Day 2 Review
+
+### Day 13: September 25, 2022
+**Today's Goals**:
+
+    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+      - Section 11: Day 10 - Dad Jokes
+      - Section 10: Day 9 Review
+
+  - [JavaScript30](https://javascript30.com/)
+    - 14 Must Know Dev Tools Tricks
+    - Fun with HTML5 Canvas Review
+
+
+
  ---
  
  ### Docket ###
@@ -79,8 +196,6 @@
     - [Ultimate Beginners' Guide to JavaScript Recursion](https://dev.to/elijahtrillionz/ultimate-beginners-guide-to-javascript-recursion-1ah1)
     - [A beginner's guide to making a dark theme for a website](https://opensource.com/article/22/9/dark-theme-website)
     - [Serving Dynamic HTML using Embedded JavaScript (EJS)](https://blog.openreplay.com/serving-dynamic-html-using-embedded-javascript-ejs)
-    - []()
-    - []()
     - [5 Projects You Can Build In a Week That Will Get You Hired](https://www.youtube.com/watch?v=oluY633rkgI&t=28s)
     - [Generate Bootstrap Studio Project File From HTML](https://www.youtube.com/watch?v=hiktQHpkJqQ)
     - [Simple Weight Converter App with JavaScript & Bootstrap](https://www.youtube.com/watch?v=7l-ZAuU8TXc)
