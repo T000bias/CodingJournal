@@ -33,17 +33,28 @@
     
   
     
-### Day 4: September 16, 2022
+### Day 4: September 17, 2022
 **Today's Goals**:
 
-  - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/introduction/)
-    - Basics
-   
+  - Portfolio
+    - [based of this portfolio](https://lokkeestudios.com/) 
+    - Need New url? (maybe) 
+    - Navigation bar
+    - About, Work, Contact, github icon link, discord icon link, frontend mentor icon link, my logo link links back to home
+    - fixed position  
+
+  - Frontend Mentor
+    - [Product preview card Component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) 
+
+  - The Web Developer Bootcamp 2022
+    - Section 10: Responsive CSS & Flexbox
+    - Section 11: Pricing Panel Project
+
   - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+    - Do 5 Katas 
   
-  - [Project Euler](https://projecteuler.net/archives)
-  
-  - [Topcoder Skill Builder Competition | JavaScript Learning](https://www.topcoder.com/challenges/d0784afd-7a8a-4fef-a0a6-a4743571797e?utm_source=dashboard+&utm_medium=/home&utm_campaign=[+]+games+skill+builder+)
+  - Project Euler
+    - [Sum square difference](https://projecteuler.net/problem=6) 
   
   - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
     - Section 1: Introduction
@@ -53,113 +64,325 @@
     - Getting Setup
     - JavaScript Drum Kit
   
-### Day 5: September 17, 2022
+  - freeCodeCamp
+    - [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords)
+       
+### Day 5: September 18, 2022
 **Today's Goals**:
-    
-    - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/introduction/)
-      - Basics Review (Watch Video Again)
+
+  - Portfolio
+    - [based of this portfolio](https://lokkeestudios.com/) 
+    - About Section
+
+  - What The Flexbox
+    - Introduction to What The Flexbox
+    - Introduction to Flexbox
+    - Working with Flexbox flex-direction
+    - Wrapping elements with flexbox 
+
+  - Frontend Mentor
+    - [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) 
+
+  - The Web Developer Bootcamp 2022
+    - Section 14: JavaScript Basics!
+    - Section 15: JavaScript Strings and More
       
-    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-      - Section 3: Progress Steps
-        - Implement in Coming Soon Page
-      - Section 2: Day 1 Review
+   - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+     - Section 3: Progress Steps        
+     - Section 2: Day 1 Review
 
   - [JavaScript30](https://javascript30.com/)
     - CSS + JS Clock
     - JavaScript Drum Kit Review
+
+  - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+    - Do 5 Katas 
+
+ - freeCodeCamp
+    - ES6 Review
+    - [CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes)
+       
+  - Project Euler
+    - [Even Fibonacci Number](https://projecteuler.net/problem=2) 
     
     
-### Day 6: September 18, 2022
+### Day 6: September 19, 2022
 **Today's Goals**:
-   
+
+  - Portfolio
+    - Work Section
+    - Top 5 Projects (Current Projects)
+    - [based of this portfolio](https://lokkeestudios.com/) 
+    
+  - What The Flexbox
+    - Flexbox Alignment and Centering with justify-content
+ 
+  - Frontend Mentor
+    - [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) 
+    
+  - The Web Developer Bootcamp 2022
+    - Section 16: JavaScript Decision Making
+
+  - freeCodeCamp
+    - [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method)
+    - CSS Flexbox Review
+
    - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/introduction/)
-      - Basics Review (Watch Video Again)
+     - Basics Review (Watch Video Again)
       
-    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-      - Section 4: Day 3 - Rotating Navigation
-        - Implement in Coming Soon Page
-      - Section 3: Day 2 Review
+   - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+     - Section 4: Day 3 - Rotating Navigation
+     - Section 3: Day 2 Review
+
+  - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+    - Do 5 Katas 
+   
+   - Project Euler
+    - [Largest prime factor](https://projecteuler.net/problem=3)    
 
 
-### Day 7: September 19, 2022
+### Day 7: September 20, 2022
 **Today's Goals**:
 
-    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-      - Section 5: Day 4 - Rotating Navigation
-      - Section 4: Day 3 Review
+  - Portfolio
+    - Contact Section
+    - form
+    - sends me a email
+    - [based of this portfolio](https://lokkeestudios.com/)  
+
+
+  - What The Flexbox
+    - Alignment and Centering with align-items
+    - Alignment and Centering with align-conten
+    - Alignment and Centering with align-self
+
+
+  - Frontend Mentor
+    - [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) 
+
+  - The Web Developer Bootcamp 2022
+    - Section 17: JavaScript Arrays
+
+  - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+    - Do 5 Katas 
+  
+   - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+     - Section 5: Day 4 - Rotating Navigation
+     - Section 4: Day 3 Review
 
   - [JavaScript30](https://javascript30.com/)
     - Playing with CSS Variables and JS
     - CSS + JS Clock Review
 
+   - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/introduction/)
+     - Search
+     
+   - freeCodeCamp
+    - Regular Expression Review
 
 
-### Day 8: September 20, 2022
+### Day 8: September 21, 2022
 **Today's Goals**:
+
+  - Portfolio
+    - footer Section
+
+  - RegexOne
+    - [Lesson 1: An Introduction, and the ABCS | Digits | Any Digit | Any Non-digit character](https://regexone.com/)   
+
+  - What The Flexbox
+    - Understanding Flexbox sizing with the flex-shrink and flex-basis
+    - Finally understanding flexbox flex-grow, flex-shrink and flex-basis
+    - How Flexbox's flex-basis and wrapping work together
+
+  - Frontend Mentor
+    - [3-Column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) 
+
+  - The Web Developer Bootcamp 2022
+    - Section 18: JavaScript Object Literals
+    - Section 19: Repeating Stuff With Loops
+
+  - freeCodeCamp
+    - [Debugguing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable)  
   
-    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-      - Section 6: Day 5 - Blurry Loading
-      - Section 5: Day 4 Review
+   - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+    - Do 5 Katas
+    
+   - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+     - Section 6: Day 5 - Blurry Loading
+     - Section 5: Day 4 Review
       
-    - [JavaScript30](https://javascript30.com/)
-      - Array Cardio Day 1
-      - Playing with CSS Variables and JS Review
+   - [JavaScript30](https://javascript30.com/)      
+     - Array Cardio Day 1
+     - Playing with CSS Variables and JS Review
 
-### Day 9: September 21, 2022
+### Day 9: September 22, 2022
 **Today's Goals**:
 
-    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-      - Section 7: Day 6 - Scroll Animation
-      - Section 6: Day 5 Review
+  - Portfolio
+    - Fix up portfolio
+    - Add any needed design sections
+    - fix about section
+    - add what services we currently offer
+    - [based of this portfolio](https://lokkeestudios.com/)  
+
+
+  - RegexOne
+    - [Lesson 2: The Dot | Period](https://regexone.com/)  
+    
+  - What The Flexbox
+    - Cross Browser Flexbox Support and autoprefixer
+
+  - Frontend Mentor
+    - [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62) 
+
+  - The Web Developer Bootcamp 2022
+    - Section 20: NEW: Introducing Functions
+    - Section 21: Leveling Up Our Functions
+
+  - freeCodeCamp
+    - Debugguing Review 
+
+  - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+    - Do 5 Katas 
+    
+  - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+    - Section 7: Day 6 - Scroll Animation
+    - Section 6: Day 5 Review
       
   - [JavaScript30](https://javascript30.com/)
     - Flex Panels Image Gallery
     - Array Cardio Day 1 Review
 
-### Day 10: September 22, 2022
+### Day 10: September 23, 2022
 **Today's Goals**:
 
-    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-      - Section 8: Day 7 - Split Landing Page
-      - Section 7: Day 6 Review
+  - Portfolio
+    - Fix up portfolio
+    - Start facebook business page
+    - [based of this portfolio](https://lokkeestudios.com/)  
 
+  - RegexOne
+    - [Lesson 3: Matching specific character | Period](https://regexone.com/)  
+    
+  - What The Flexbox
+    - Pure Flexbox navigation code along
+
+  - Frontend Mentor
+    - [Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) 
+
+  - The Web Developer Bootcamp 2022
+    - Section 22: Callbacks & Array Methods
+
+  - freeCodeCamp
+    - [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data) 
+
+   - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+     - Section 8: Day 7 - Split Landing Page
+     - Section 7: Day 6 Review
+    
+  - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+    - Do 5 Katas
+    
   - [JavaScript30](https://javascript30.com/)
     - Ajax Type Ahead
     - Flex Panels Image Gallery Review
 
-### Day 11: September 23, 2022
+### Day 11: September 24, 2022
 **Today's Goals**:
 
-    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-      - Section 9: Day 8 - Form Wave Animation
-      - Section 8: Day 7 Review
+  - Portfolio
+    - Fix up portfolio
+    - Deploy services on social media
+    - [based of this portfolio](https://lokkeestudios.com/)  
+
+  - RegexOne
+    - [Lesson 4: Excluding specific characters](https://regexone.com/)  
+    
+  - What The Flexbox
+    - Mobile content reordering with flexbox
+
+  - Frontend Mentor
+    - [Huddle landing page with a single introductory section](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) 
+
+  - The Web Developer Bootcamp 2022
+    - Section 23: Newer JavaScript Features
+
+  - freeCodeCamp
+    - Basic Data Structures Review    
+
+   - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+     - Section 9: Day 8 - Form Wave Animation
+     - Section 8: Day 7 Review
 
   - [JavaScript30](https://javascript30.com/)
     - Array Cardio Day 2
     - Ajax Type Ahead Review
-
-### Day 12: September 24, 2022
+    
+  - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+    - Do 5 Katas
+    
+### Day 12: September 25, 2022
 **Today's Goals**:
 
-    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-      - Section 10: Day 9 - Sound Board
-      - Section 9: Day 8 Review
+  - Portfolio
+    - Fix up portfolio
+
+  - RegexOne
+    - [Lesson 5: Character ranges](https://regexone.com/)  
+    
+  - What The Flexbox
+    - Nesting flexbox for vertical and horizontal centering with flexbox
+
+  - Frontend Mentor
+    - [Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) 
+
+  - The Web Developer Bootcamp 2022
+    - Section 24: Introducing The World Of The DOM
+    - Section 25: The Missing Piece: DOM Events
+
+   - freeCodeCamp
+    - [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit) 
+
+   - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+     - Section 10: Day 9 - Sound Board
+     - Section 9: Day 8 Review
 
   - [JavaScript30](https://javascript30.com/)
     - Fun with HTML5 Canvas
     - Array Cardio Day 2 Review
 
-### Day 13: September 25, 2022
+  - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+    - Do 5 Katas 
+    - 
+### Day 13: September 26, 2022
 **Today's Goals**:
 
-    - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-      - Section 11: Day 10 - Dad Jokes
-      - Section 10: Day 9 Review
+  - Portfolio
+    - Fix up portfolio
+
+  - RegexOne
+    - [Lesson 6: Catching some zzz's](https://regexone.com/)  
+    
+  - What The Flexbox
+    - Flexbox Pricing Grid
+
+  - Frontend Mentor
+    - [FAQ accordion card](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)   
+
+  - The Web Developer Bootcamp 2022
+    - Section 27: Async JavaScript Oh Boy!
+
+   - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
+     - Section 11: Day 10 - Dad Jokes
+     - Section 10: Day 9 Review
 
   - [JavaScript30](https://javascript30.com/)
     - 14 Must Know Dev Tools Tricks
     - Fun with HTML5 Canvas Review
-
+    
+  - [Codewars - Array Challenges](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+    - Do 5 Katas 
 
 
  ---
@@ -168,6 +391,7 @@
   - Future Projects
     - [React Documentation: Main Concepts](https://reactjs.org/docs/hello-world.html)  
     - [CodeWars]()
+    - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
     - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
     - [Algorithms & Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
     - [Big O Notation](https://www.youtube.com/watch?v=Mo4vesaut8g)
