@@ -33,7 +33,7 @@
     
   
     
-### Day 4: September 17, 2022
+### Day 4: September 18, 2022
 **Today's Goals**:
 
   - Portfolio
