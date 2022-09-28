@@ -73,8 +73,10 @@
     
     
   **Today's Progress:**
+    - Got 2 out of the 4 chapters read from "Eloquent JavaScript".
   
   **Thoughts:**
+    - I couldn't get everything on my list done, but thats no big issue. All of my task have been laid out so I always have backup work to do if I finish a day early. Nothing really major to report.
     
 
 ### Day 6: September 28, 2022
