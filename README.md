@@ -64,10 +64,12 @@
     - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)  
     
   **Today's Progress:**
-    - Got 2 out of the 4 chapters read from "Eloquent JavaScript".
+  
+   - Got 2 out of the 4 chapters read from "Eloquent JavaScript".
   
   **Thoughts:**
-    - I couldn't get everything on my list done, but thats no big issue. All of my task have been laid out so I always have backup work to do if I finish a day early. Nothing really major to report.
+  
+   - I couldn't get everything on my list done, but thats no big issue. All of my task have been laid out so I always have backup work to do if I finish a day early. Nothing really major to report.
     
 
 ### Day 6: September 28, 2022
@@ -86,12 +88,12 @@
       
   **Today's Progress:**
   
-    - Did 4 Katas based on array methods.
-    - Change my approach to how I structure my learning path.
+   - Did 4 Katas based on array methods.
+   - Change my approach to how I structure my learning path.
     
   **Thoughts:**
-    
-    - I finally figured out the method to how I want to tackle all the courses and resources I found over the past months. Instead of shifting between 20 different things, I will focus on only three items simultaneously. This week, the three main items are The Web Developer Bootcamp 2022, Eloquent JavaScript, and Shay Howe’s ‘Learn to Code HTML & CSS.’ This system will stay in place for two weeks to see how everything plays out, but I am sure this is the way it should go.
+  
+   - I finally figured out the method to how I want to tackle all the courses and resources I found over the past months. Instead of shifting between 20 different things, I will focus on only three items simultaneously. This week, the three main items are The Web Developer Bootcamp 2022, Eloquent JavaScript, and Shay Howe’s ‘Learn to Code HTML & CSS.’ This system will stay in place for two weeks to see how everything plays out, but I am sure this is the way it should go. PS: Codewar challenges will still be completed until furthur notice.
 
 ### Day 7: September 29, 2022
 
@@ -132,13 +134,8 @@
 ### Day 9: October 01, 2022
 
   **Today's Goals:**
-  
-  - Class 06
-    - Do Homework Assignments
-    - All Previous Homework Assignments are due today
     
   - Eloquent JavaScript
-    - Review
     
   - Codewar
     - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
