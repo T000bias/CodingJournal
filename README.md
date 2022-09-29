@@ -63,15 +63,6 @@
   - Codewar
     - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)  
     
-  - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-    - Section 1: Introduction
-    - Section 2: Day 1 - Expanding Cards
-   
-  - [JavaScript30](https://javascript30.com/)
-    - Getting Setup
-    - JavaScript Drum Kit
-    
-    
   **Today's Progress:**
     - Got 2 out of the 4 chapters read from "Eloquent JavaScript".
   
@@ -82,25 +73,25 @@
 ### Day 6: September 28, 2022
 
   **Today's Goals:**
+  
   - Class 03
     - Do Homework Assignments
+    
   - Eloquent JavaScript
     - Review
     - read 4 Chapters
+    
   - Codewar
     - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)  
-    
-  - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-    - Section 3: Day 2 - Progress Steps
-   
-  - [JavaScript30](https://javascript30.com/)
-    - CSS + JS Clock
-    
-    
+      
   **Today's Progress:**
   
+    - Did 4 Katas based on array methods.
+    - Change my approach to how I structure my learning path.
+    
   **Thoughts:**
     
+    - I finally figured out the method to how I want to tackle all the courses and resources I found over the past months. Instead of shifting between 20 different things, I will focus on only three items simultaneously. This week, the three main items are The Web Developer Bootcamp 2022, Eloquent JavaScript, and Shay Howe’s ‘Learn to Code HTML & CSS.’ This system will stay in place for two weeks to see how everything plays out, but I am sure this is the way it should go.
 
 ### Day 7: September 29, 2022
 
@@ -108,17 +99,13 @@
   
   - Class 04
     - Do Homework Assignments
+    
   - Eloquent JavaScript
     - Review
     - Read 4 Chapters
+    
   - Codewar
     - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)  
-    
-  - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-    - Section 4: Day 3 - Rotating Navigation
-   
-  - [JavaScript30](https://javascript30.com/)
-    - Playing with CSS Variables and JS
     
   **Today's Progress:**
   
@@ -130,17 +117,13 @@
   
   - Class 05
     - Do Homework Assignments
+    
   - Eloquent JavaScript
     - Review
-    - Finish 'Eloquent JavaScript'    
+    - Finish 'Eloquent JavaScript'
+    
   - Codewar
     - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)  
-    
-  - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-    - Section 5: Day 4 - Hidden Search Widget
-   
-  - [JavaScript30](https://javascript30.com/)
-    - Array Cardio Day 1
     
   **Today's Progress:**
   
@@ -149,20 +132,16 @@
 ### Day 9: October 01, 2022
 
   **Today's Goals:**
+  
   - Class 06
     - Do Homework Assignments
     - All Previous Homework Assignments are due today
+    
   - Eloquent JavaScript
-    - Review    
+    - Review
+    
   - Codewar
     - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
-    
-  - [50 Projects in 50 Days - HTML, CSS, and JavaScript](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23594652?start=15#overview)
-    - Section 6: Day 5 - Blurry Loading
-
-   
-  - [JavaScript30](https://javascript30.com/)
-    - Flex Panels Image Gallery
     
   **Today's Progress:**
   
