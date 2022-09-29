@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Navigation (Work in progress)
+
+| 09/06/2022  | 09/12/2022  | 09/26/2022 | 09/27/2022 | 09/28/2022 | 09/29/2022 | 09/30/2022 |
+| ----------- | ----------- | -----------| -----------| -----------| -----------| ---------- |
+| [Day 1]()   | [Day 2]()   | [Day 3]()  | [Day 4]()  | [Day 5]()  | [Day 6]()  | [Day 7]()  |
+| ----------- | ----------- | -----------| -----------| -----------| -----------| ---------- |
+| 10/01/2022  | XX/XX/XXXX  | XX/XX/XXXX | XX/XX/XXXX | XX/XX/XXXX | XX/XX/XXXX | XX/XX/XXXX |
+| ----------- | ----------- | -----------| -----------| -----------| -----------| ---------- |
+
+
+
 ### Day 1: September 06, 2022
 **Today's Goals**:
   - CodeWars
@@ -99,12 +110,103 @@
 
   **Today's Goals:**
   
-  - Class 04
-    - Do Homework Assignments
+  - Learn to Code HTML & CSS
+    - [] Building Your First Web Page
+    - [] Getting to Know HTML
+    - [] Getting to Know CSS
+    - [] Opening the Box Model
+    - [] Positioning Content
+    - [] Working with Typography
+    - [] Setting Background & Gradients
+    - [] Creating List
+    - [] Adding Media
+    - [] Building Forms
+    - [] Oranizing Data with Tables
+    - [] Writing Your Best Code
+    
+  
+  - The Web Developer Bootcamp 2022 
+    - [] Course Orientation
+    - [] An Introduction to Web Development
+    - [] HTML: The Essentials
+    - [] HTML: Next Steps & Semantics
+    - [] HTML: Forms & Tables
+    - [] CSS: The Very Basics
+    - [] The World of CSS Selectors
+    - [] The CSS Box Model
+    - [] Other Assorted Useful CSS Properties
+    - [] Responsive CSS & Flexbox
+    - [] Pricing Panel Project
+    - [] CSS Frameworks: Bootstrap
+    - [] Optional Museum Of Candy Project
+    - [] JavaScript Basics
+    - [] JavaScript Strings and More
+    - [] JavaScript Decision Making
+    - [] JavaScript Arrays
+    - [] JavaScript Object Literals
+    - [] Repeating Stuff With Loops
+    - [] NEW: Introducing Functions
+    - [] Leveling Up Our Functions
+    - [] Callbacks & Array Methods
+    - [] Newer JavaScript Features
+    - [] Introducing The World Of The DOM
+    - [] The Missing Piece: DOM Events
+    - [] Score Keeper CodeAlong
+    - [] Async JavaScript: Oh Boy!
+    - [] AJAX and APIs
+    - [] Prototypes, Classes, & OOP
+    - [] Mastering The Terminal
+    - [] Our First Brush With Node
+    - [] Exploring Modules & The NPM Universe
+    - [] Creating Dynamic HTML with Templating
+    - [] Defining RESTful Routes
+    - [] Our First Database: MongoDB
+    - [] Connecting To Mongo With Mongoose
+    - [] Putting It All Together: Mongoose With Express
+    - [] YelpCamp: Campgrounds CRUD
+    - [] Middleware: The Key To Express
+    - [] YelpCamp: Adding Basic Styles
+    - [] Handling Errors In Express Apps
+    - [] YelpCamp: Errors & Validating Data
+    - [] Data Relationships with Mongo
+    - [] Mongo Relationships with Express
+    - [] YelpCamp: Adding The Reviews Model
+    - [] Express Router & Cookies
+    - [] Express Session & Flash
+    - [] YelpCamp: Restructuring & Flash
+    - [] Authentication From "Scratch"
+    - [] YelpCamp: Adding In Authentication
+    - [] YelpCamp: Basic Authorization
+    - [] YelpCamp: Controllers & Star Ratings
+    - [] YelpCamp: Image Upload
+    - [] YelpCamp: Adding Maps
+    - [] YelpCamp: Fancy Cluster Map
+    - [] YelpCamp: Styles Clean Up
+    - [] YelpCamp: Common Security Issues
+    - [] YelpCamp: Deploying
     
   - Eloquent JavaScript
-    - Review
-    - Read 4 Chapters
+    - [] Values, Types, and Operators
+    - [] Program Structure
+    - [] Functions
+    - [] Data Structures: Objects and Arrays
+    - [] Higher-order Functions
+    - [] The Secret Life of Objects
+    - [] Project: A Robot
+    - [] Bugs and Errors
+    - [] Regular Expressions
+    - [] Modules
+    - [] Asynchronous Programming
+    - [] Projects: A Programming Language
+    - [] JavaScript and the Browser
+    - [] The Document Object Model
+    - [] Handling Events
+    - [] Project: A Platform Game
+    - [] Drawing on Canvas
+    - [] HTTP and Forms
+    - [] Project: A Pixel Art Editor
+    - [] Node.js
+    - [] Project: Skill-Sharing Website
     
   - Codewar
     - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)  
