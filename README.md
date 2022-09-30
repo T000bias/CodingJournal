@@ -219,16 +219,10 @@
 
   **Today's Goals:**
   
-  - Class 05
-    - Do Homework Assignments
-    
-  - Eloquent JavaScript
-    - Review
-    - Finish 'Eloquent JavaScript'
-    
-  - Codewar
-    - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)  
-    
+  - Learning React
+  
+    - [] [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+  
   **Today's Progress:**
   
   **Thoughts:**
@@ -237,6 +231,9 @@
 
   **Today's Goals:**
     
+   - Learning React
+    - [] [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)  
+
   - Eloquent JavaScript
     
   - Codewar
@@ -246,6 +243,11 @@
   
   **Thoughts:**
     
+### Day 10: October 02, 2022
+
+  **Today's Goals:**
+  **Today's Progress:**
+  **Thoughts:**
 
 
  ---
@@ -253,7 +255,6 @@
  ### Docket ###
   - Future Projects
     - [React Documentation: Main Concepts](https://reactjs.org/docs/hello-world.html)  
-    - [CodeWars]()
     - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
     - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
     - [Algorithms & Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
