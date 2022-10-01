@@ -218,11 +218,7 @@
 ### Day 8: September 30, 2022
 
   **Today's Goals:**
-  
-  - Learning React
-  
-    - [] [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-  
+   
   **Today's Progress:**
   
   **Thoughts:**
@@ -232,7 +228,6 @@
   **Today's Goals:**
     
    - Learning React
-    - [] [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)  
 
   - Eloquent JavaScript
     
@@ -254,6 +249,8 @@
  
  ### Docket ###
   - Future Projects
+    - [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)  
+    - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
     - [React Documentation: Main Concepts](https://reactjs.org/docs/hello-world.html)  
     - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
     - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
