@@ -135,20 +135,24 @@
 ### Day 9: October 03, 2022
 
   **Today's Goals:**
-    
    - freeCodeCamp
-    - Completed all 12 challenges for Debugging
-
-   - Eloquent JavaScript
-    
+     - Complete all 12 challenges for Debugging
+     - 
   - Codewar
     - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
     
   **Today's Progress:**
+  - Completed all 12 challenges for Debugging. (12 Points added)
   
   **Thoughts:**
+  (Full thoughts later)
+  - Practicing JavaScript daily helped me finish the debugging section on freeCodeCamp.
+  - Still feel lost on what I should be focusing on.
+  - Added 5 Job to my Huntober list.
+  - Started Reading a new book "title later".
+  - Studied my anki flashcards for JavaScript.
     
-### Day 10: October 02, 2022
+### Day 10: October 04, 2022
 
   **Today's Goals:**
   **Today's Progress:**
