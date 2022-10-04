@@ -2,12 +2,18 @@
 
 ## Navigation (Work in progress)
 
-| 09/06/2022  | 09/12/2022  | 09/26/2022 | 09/27/2022 | 09/28/2022 | 09/29/2022 | 09/30/2022 |
-| ----------- | ----------- | -----------| -----------| -----------| -----------| ---------- |
-| [Day 1]()   | [Day 2]()   | [Day 3]()  | [Day 4]()  | [Day 5]()  | [Day 6]()  | [Day 7]()  |
-| ----------- | ----------- | -----------| -----------| -----------| -----------| ---------- |
-| 10/01/2022  | XX/XX/XXXX  | XX/XX/XXXX | XX/XX/XXXX | XX/XX/XXXX | XX/XX/XXXX | XX/XX/XXXX |
-| ----------- | ----------- | -----------| -----------| -----------| -----------| ---------- |
+| Days 1 - 10 | Days 11 - 20 | Days 21 - 30 | Days 31 - 40 | Days 41 - 50 |
+| ----------- | ------------ | ------------ | ------------ | ------------ |
+| [Day 1]()  | [Day 11]()  | [Day 21]()  | [Day 31]()  | [Day 41]()  |
+| [Day 2]()  | [Day 12]()  | [Day 22]()  | [Day 32]()  | [Day 42]()  |
+| [Day 3]()  | [Day 13]()  | [Day 23]()  | [Day 33]()  | [Day 43]()  |
+| [Day 4]()  | [Day 14]()  | [Day 24]()  | [Day 34]()  | [Day 44]()  |
+| [Day 5]()  | [Day 15]()  | [Day 25]()  | [Day 35]()  | [Day 45]()  |
+| [Day 6]()  | [Day 16]()  | [Day 26]()  | [Day 36]()  | [Day 46]()  | 
+| [Day 7]()  | [Day 17]()  | [Day 27]()  | [Day 37]()  | [Day 47]()  |
+| [Day 8]()  | [Day 18]()  | [Day 28]()  | [Day 38]()  | [Day 48]()  |
+| [Day 9]()  | [Day 19]()  | [Day 29]()  | [Day 39]()  | [Day 49]()  |
+| [Day 10]() | [Day 20]()  | [Day 30]()  | [Day 40]()  | [Day 50]()  |
 
 
 
@@ -126,13 +132,14 @@
   
   **Thoughts:**
     
-### Day 9: October 01, 2022
+### Day 9: October 03, 2022
 
   **Today's Goals:**
     
-   - Learning React
+   - freeCodeCamp
+    - Completed all 12 challenges for Debugging
 
-  - Eloquent JavaScript
+   - Eloquent JavaScript
     
   - Codewar
     - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
