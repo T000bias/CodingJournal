@@ -151,15 +151,174 @@
   - Added 5 Job to my Huntober list.
   - Started Reading a new book "title later".
   - Studied my anki flashcards for JavaScript.
-    
+
+---
+
 ### Day 10: October 04, 2022
 
   **Today's Goals:**
+  
+  - The Web Developer Bootcamp 2022
+    - Section 3: HTML: The Essentials
+    - Section 18: JavaScript Object Literals
+    
+  - CSS3 in 30 Days
+    - [] Getting Started!
+    - [] How to Download the Course & Theme Files
+    - [] Fancy Buttons
+    
+  - Conquering Responsive Layouts
+    - [] Percentages vs Fixed widths
+    - [] Percentages on the child
+    - [] Why it's a good idea to avoid heights
+    - [] About the challenges
+    - [] Challenge #1
+    - [] Challenge #1 - Starting Files
+    - [] Information about the daily drip
+  
   **Today's Progress:**
+  
+  **Thoughts:**
+---
+
+### Day 11: October 05, 2022
+
+  **Today's Goals:**
+  
+  - The Web Developer Bootcamp 2022
+    - Section 4: HTML: Next Steps & Semantics
+    - Section 19: Repeating Stuff With Loops
+    
+  - CSS3 in 30 Days
+    - [] Sexy Typography
+    
+  - Conquering Responsive Layouts
+    - [] Getting familiar with relative units
+    - [] CSS em and rem explained
+    - [] Why you shouldn't set font sizes using em
+  
+  **Today's Progress:**
+  
+  **Thoughts:**
+  
+---
+
+### Day 12: October 06, 2022
+
+  **Today's Goals:**
+  
+  - The Web Developer Bootcamp 2022
+    - Section 5: HTML: Forms & Tables
+    - Section 20: NEW: Introducing Functions
+    
+  - CSS3 in 30 Days
+    - [] Clipping Images with Shapes
+    
+  - Conquering Responsive Layouts
+    - [] Challenge #1 - Solution
+    - [] Adding in a max-width
+    - [] Challenge #2
+  
+  **Today's Progress:**
+  
   **Thoughts:**
 
+---
 
- ---
+### Day 13: October 07, 2022
+
+  **Today's Goals:**
+  
+  - The Web Developer Bootcamp 2022
+    - Section 6: CSS: The Very Basics
+    - Section 21: Leveling Up Our Functions
+    
+  - CSS3 in 30 Days
+    - [] Sexy User Interface Forms
+    
+  - Conquering Responsive Layouts
+    - [] Some extra materail if you're interested
+    - [] CSS Units: vh, vw, vmin, vmax
+  
+  **Today's Progress:**
+  
+  **Thoughts:**
+  
+---
+
+### Day 14: October 08, 2022
+
+  **Today's Goals:**
+  - Frontend Mentor
+    - Product preview card component
+    - QR code component
+    - Order summary component
+    - Stats preview card component
+    - Profile card component
+    - Single price grid component
+    - Skilled e-learning landing page
+    
+  - The Web Developer Bootcamp 2022
+    - Section 7: The World of CSS Selectors
+    - Section 22: Callbacks & Array Methods
+    
+  - CSS3 in 30 Days
+    - [] Useful Broken Images
+    
+  - Conquering Responsive Layouts
+    - [] Challenge #2 Solution
+    - [] Challenge #3
+    - [] Challenge-design-specs.pdf
+    
+  
+  **Today's Progress:**
+  
+  **Thoughts:**
+  
+---
+
+### Day 15: October 09, 2022
+
+  **Today's Goals:**
+  - Frontend Mentor
+    - Equalizer landing page
+    - Meet landing page
+    - 3-column preview card component
+    - Social proof section
+    - Four Card feature section
+    - Single price grid component
+    - Huddle landing page with a single introductory section
+    
+  - The Web Developer Bootcamp 2022
+    - Section 7: The World of CSS Selectors
+    - Section 23: Newer JavaScrip Features
+    
+  - CSS3 in 30 Days
+    - [] Print Styles
+    
+  - Conquering Responsive Layouts
+    - [] Review of the first week
+    - [] Why you shouldn't ues 'em's for font size
+    - [] A Tale of width and max-width
+    
+  
+  **Today's Progress:**
+  
+  **Thoughts:**
+  
+
+---
+Project Goals:
+
+Portfolio
+  - Navigation
+  - About Me section
+  - Project section
+  - services offered
+  - Tutoring Services
+  -
+
+---
  
  ### Docket ###
   - Future Projects
@@ -212,6 +371,7 @@
     - [The Bootstrap Grid System](https://getbootstrap.com/docs/5.0/layout/grid/)
     - [Understanding Props in React]()
     - [Using Context in React](https://reactjs.org/docs/context.html)
+    
   - Learn to Code HTML & CSS
     - [] Building Your First Web Page
     - [] Getting to Know HTML
