@@ -16,6 +16,8 @@
 | [Day 10]() | [Day 20]()  | [Day 30]()  | [Day 40]()  | [Day 50]()  |
 
 
+### Total Points
+  0000/0778
 
 ### Day 1: September 06, 2022
 **Today's Goals**:
@@ -159,8 +161,8 @@
   **Today's Goals:**
   
   - The Web Developer Bootcamp 2022
-    - Section 3: HTML: The Essentials
-    - Section 18: JavaScript Object Literals
+    - [] Section 3: HTML: The Essentials
+    - [x] Section 18: JavaScript Object Literals (8 Points)
     
   - CSS3 in 30 Days
     - [] Getting Started!
@@ -177,6 +179,8 @@
     - [] Information about the daily drip
   
   **Today's Progress:**
+   - Finished Section 18 and created my flashcards.
+   - Starting my points system; more details in thoughts.
   
   **Thoughts:**
 ---
@@ -322,6 +326,9 @@ Portfolio
  
  ### Docket ###
   - Future Projects
+    - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+    - [Get a Job Using LinkedIn](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)
+    - [The JavaScript Concepts You Should Know Before Learning React](https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/)
     - [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)  
     - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
     - [React Documentation: Main Concepts](https://reactjs.org/docs/hello-world.html)  
