@@ -17,7 +17,7 @@
 
 
 ### Total Points
-  0000/0778
+  0013/0778
 
 ### Day 1: September 06, 2022
 **Today's Goals**:
@@ -160,6 +160,9 @@
 
   **Today's Goals:**
   
+  - freeCodeCamp: JavaScript Algorithms & Data Structures
+    - [x] Basic Data Structures (5 Points)
+    
   - The Web Developer Bootcamp 2022
     - [] Section 3: HTML: The Essentials
     - [x] Section 18: JavaScript Object Literals (8 Points)
@@ -181,6 +184,7 @@
   **Today's Progress:**
    - Finished Section 18 and created my flashcards.
    - Starting my points system; more details in thoughts.
+   - Started freeCodeCamp's Basic Data Structure (Completed 5 out of 20 Challenges)
   
   **Thoughts:**
 ---
