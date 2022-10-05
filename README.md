@@ -327,6 +327,7 @@ Portfolio
  ### Docket ###
   - Future Projects
     - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+    - [Scroll Page Horizontally With Mouse Wheel](https://css-tricks.com/snippets/jquery/horz-scroll-with-mouse-wheel/)
     - [Get a Job Using LinkedIn](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)
     - [The JavaScript Concepts You Should Know Before Learning React](https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/)
     - [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)  
