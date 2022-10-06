@@ -209,8 +209,10 @@
   
   **Today's Progress:**
    - Finished 5 more challenges from freeCodecamp.
+   - Downloaded Remnote for studying
   
   **Thoughts:**
+   - **Coming Soon**
   
 ---
 
@@ -219,8 +221,8 @@
   **Today's Goals:**
   
   - The Web Developer Bootcamp 2022
-    - Section 5: HTML: Forms & Tables
-    - Section 20: NEW: Introducing Functions
+    - [] Section 5: HTML: Forms & Tables
+    - [] Section 20: NEW: Introducing Functions
     
   - CSS3 in 30 Days
     - [] Clipping Images with Shapes
@@ -241,8 +243,8 @@
   **Today's Goals:**
   
   - The Web Developer Bootcamp 2022
-    - Section 6: CSS: The Very Basics
-    - Section 21: Leveling Up Our Functions
+    - [] Section 6: CSS: The Very Basics
+    - [] Section 21: Leveling Up Our Functions
     
   - CSS3 in 30 Days
     - [] Sexy User Interface Forms
