@@ -161,7 +161,7 @@
   **Today's Goals:**
   
   - freeCodeCamp: JavaScript Algorithms & Data Structures
-    - [x] Basic Data Structures (5 Points)
+    - [x] Basic Data Structures (5 Points / 20 Points)
     
   - The Web Developer Bootcamp 2022
     - [] Section 3: HTML: The Essentials
@@ -192,10 +192,12 @@
 ### Day 11: October 05, 2022
 
   **Today's Goals:**
-  
+  - freeCodeCamp: JavaScript Algorithms & Data Structures
+    - [x] Basic Data Structures (10 Points / 20 Points)
+    
   - The Web Developer Bootcamp 2022
-    - Section 4: HTML: Next Steps & Semantics
-    - Section 19: Repeating Stuff With Loops
+    - [] Section 4: HTML: Next Steps & Semantics
+    - [] Section 19: Repeating Stuff With Loops
     
   - CSS3 in 30 Days
     - [] Sexy Typography
@@ -206,6 +208,7 @@
     - [] Why you shouldn't set font sizes using em
   
   **Today's Progress:**
+   - Finished 5 more challenges from freeCodecamp.
   
   **Thoughts:**
   
