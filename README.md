@@ -291,102 +291,29 @@ Portfolio
     - [The Bootstrap Grid System](https://getbootstrap.com/docs/5.0/layout/grid/)
     - [Understanding Props in React]()
     - [Using Context in React](https://reactjs.org/docs/context.html)
-    
-  - Learn to Code HTML & CSS
-    - [] Building Your First Web Page
-    - [] Getting to Know HTML
-    - [] Getting to Know CSS
-    - [] Opening the Box Model
-    - [] Positioning Content
-    - [] Working with Typography
-    - [] Setting Background & Gradients
-    - [] Creating List
-    - [] Adding Media
-    - [] Building Forms
-    - [] Oranizing Data with Tables
-    - [] Writing Your Best Code
-    
-  
-  - The Web Developer Bootcamp 2022 
-    - [] Course Orientation
-    - [] An Introduction to Web Development
-    - [] HTML: The Essentials
-    - [] HTML: Next Steps & Semantics
-    - [] HTML: Forms & Tables
-    - [] CSS: The Very Basics
-    - [] The World of CSS Selectors
-    - [] The CSS Box Model
-    - [] Other Assorted Useful CSS Properties
-    - [] Responsive CSS & Flexbox
-    - [] Pricing Panel Project
-    - [] CSS Frameworks: Bootstrap
-    - [] Optional Museum Of Candy Project
-    - [] JavaScript Basics
-    - [] JavaScript Strings and More
-    - [] JavaScript Decision Making
-    - [] JavaScript Arrays
-    - [] JavaScript Object Literals
-    - [] Repeating Stuff With Loops
-    - [] NEW: Introducing Functions
-    - [] Leveling Up Our Functions
-    - [] Callbacks & Array Methods
-    - [] Newer JavaScript Features
-    - [] Introducing The World Of The DOM
-    - [] The Missing Piece: DOM Events
-    - [] Score Keeper CodeAlong
-    - [] Async JavaScript: Oh Boy!
-    - [] AJAX and APIs
-    - [] Prototypes, Classes, & OOP
-    - [] Mastering The Terminal
-    - [] Our First Brush With Node
-    - [] Exploring Modules & The NPM Universe
-    - [] Creating Dynamic HTML with Templating
-    - [] Defining RESTful Routes
-    - [] Our First Database: MongoDB
-    - [] Connecting To Mongo With Mongoose
-    - [] Putting It All Together: Mongoose With Express
-    - [] YelpCamp: Campgrounds CRUD
-    - [] Middleware: The Key To Express
-    - [] YelpCamp: Adding Basic Styles
-    - [] Handling Errors In Express Apps
-    - [] YelpCamp: Errors & Validating Data
-    - [] Data Relationships with Mongo
-    - [] Mongo Relationships with Express
-    - [] YelpCamp: Adding The Reviews Model
-    - [] Express Router & Cookies
-    - [] Express Session & Flash
-    - [] YelpCamp: Restructuring & Flash
-    - [] Authentication From "Scratch"
-    - [] YelpCamp: Adding In Authentication
-    - [] YelpCamp: Basic Authorization
-    - [] YelpCamp: Controllers & Star Ratings
-    - [] YelpCamp: Image Upload
-    - [] YelpCamp: Adding Maps
-    - [] YelpCamp: Fancy Cluster Map
-    - [] YelpCamp: Styles Clean Up
-    - [] YelpCamp: Common Security Issues
-    - [] YelpCamp: Deploying
-    
-  - Eloquent JavaScript
-    - [] Values, Types, and Operators
-    - [] Program Structure
-    - [] Functions
-    - [] Data Structures: Objects and Arrays
-    - [] Higher-order Functions
-    - [] The Secret Life of Objects
-    - [] Project: A Robot
-    - [] Bugs and Errors
-    - [] Regular Expressions
-    - [] Modules
-    - [] Asynchronous Programming
-    - [] Projects: A Programming Language
-    - [] JavaScript and the Browser
-    - [] The Document Object Model
-    - [] Handling Events
-    - [] Project: A Platform Game
-    - [] Drawing on Canvas
-    - [] HTTP and Forms
-    - [] Project: A Pixel Art Editor
-    - [] Node.js
-    - [] Project: Skill-Sharing Website
-    
+    - [](https://itnext.io/from-junior-to-genius-an-optimization-story-ab20afc8159d)
+    - [What are Absolute and Relative Units in CSS? Explained with Examples](https://www.freecodecamp.org/news/absolute-and-relative-css-units/)
+    - [The 10 Immutable Laws of Testing](https://www.telerik.com/blogs/10-immutable-laws-testing)
+    - [How to Create Wavy Shapes & Patterns in CSS](https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/)
+    - [The Hidden cost of using JavaScript](https://dev.to/shreyvijayvargiya/why-our-websites-are-slow-importance-of-bundle-size-1le4)
+    - [How to Swap Two Array Elements in JavaScript - Switch Elements in JS](https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/)
+    - [CSS Selectors - Cheat Sheet for Class, Name, Child Selector List](https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/)
+    - [The Difference between "undefined" and "not defined" in JavaScript](https://itnext.io/the-difference-between-undefined-and-not-defined-in-javascript-db4c79949be6)
+    - [Software Engineering Practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/)
+    - [JavaScript's 'This' Keyword Explained and Demystified](https://blog.openreplay.com/javascripts-this-explained-and-demystified/)
+    - [Frontend caching in Vue with Workbox service workers](https://blog.logrocket.com/frontend-caching-in-vue-with-workbox-service-workers/)
+    - [How to add leading zero to a number in JavaScript](https://flaviocopes.com/js-add-leading-zero/)
+    - [Creating a custom mouse cursor with CSS](https://blog.logrocket.com/creating-custom-mouse-cursor-css/)
+    - [Props in React.js](https://www.c-sharpcorner.com/article/props-in-reactjs/)
+    - [Form Validation with HTML](https://blog.openreplay.com/form-validation-with-html/)
+    - [Shadom DOM: The Ultimate Guide](https://blog.openreplay.com/shadow-dom--the-ultimate-guide/)
+    - [A Guide to Rounding Numbers in JavaScript](https://www.sitepoint.com/rounding-numbers-javascript/)
+    - [component framework concepts in Vue vs react](https://blog.openreplay.com/component-concepts-in-vue-vs-react/)
+    - [Negative index in JavaScript array](https://www.30secondsofcode.org/articles/s/js-proxy-array-negative-index)
+    - [How to learn expert web debugging techniques that get you to done fast](https://www.telerik.com/blogs/how-to-learn-expert-web-debugging-techniques-done-faster)
+    - [How to build a transcription app in react native](https://blog.logrocket.com/build-transcription-app-react-native/)
+    - [Integrating Bootstrap Page Templates Into Our React Websites](https://blog.openreplay.com/integrating-bootstrap-page-templates-into-our-pages/)
+    - [HTML Drop-down Menu - How to Add a Drop-down List with the select element](https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/)
+    - [Form Validation With HTML](https://blog.openreplay.com/form-validation-with-html/)
+    - [How to use react helmet - with examples use case](https://www.freecodecamp.org/news/react-helmet-examples/)
+    - [What is the DOM? A Behind-the-scenes guide](https://www.freecodecamp.org/news/what-is-dom-in-javascript/)
