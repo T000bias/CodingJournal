@@ -22,7 +22,7 @@
 ### Day 1: September 06, 2022
 **Today's Goals**:
   - CodeWars
-    - Do 5 Katas
+    - [x] Do 5 Katas
     
 **Today's Progress**: 
   - Finished my 5 katas; Check out my repository [here](https://github.com/T000bias/CodeWars/tree/main/JavaScript%20Solutions/8th%20kyu).
@@ -33,10 +33,10 @@
 ### Day 2: September 12, 2022
 **Today's Goals**:
   - freeCodeCamp
-    - **Completed** [React for JavaScript](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=1s)
+    - [x] [React for JavaScript](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=1s)
     
   - CodeWars
-    - **Completed** Do 5 Katas from [here](https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015)
+    - [x] Do 5 Katas from [here](https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015)
   
 **Today's Progress**: 
   - Started my React training from freeCodeCamp and I am completely lost, but that is part of the journey of being a software engineer. On top of learning react I also decided to learn bootstrap just to understand a CSS framework. Also did my 5 katas for today.
@@ -56,14 +56,11 @@
   **Today's Goals:**
   
   - Eloquent JavaScript
-    - Read 4 Chapters
+    - [] Read 4 Chapters
     
   - Codewar
-    - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
-    
-  - Class 01
-    - Do Homework Assignments
-
+    - [x] [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+   
   **Today's Progress:**
   
   **Thoughts:**
@@ -72,16 +69,10 @@
 
   **Today's Goals:**
   
-  - Class 02
-    - Do Homework Assignments
-      
    - Eloquent JavaScript
-     - Review
-     - Read 4 Chapters
+     - [x] Review
+     - [x] Read 4 Chapters
      
-  - Codewar
-    - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)  
-    
   **Today's Progress:**
   
    - Got 2 out of the 4 chapters read from "Eloquent JavaScript".
@@ -95,15 +86,8 @@
 
   **Today's Goals:**
   
-  - Class 03
-    - Do Homework Assignments
-    
-  - Eloquent JavaScript
-    - Review
-    - read 4 Chapters
-    
   - Codewar
-    - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)  
+    - [x] [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)  
       
   **Today's Progress:**
   
@@ -138,10 +122,7 @@
 
   **Today's Goals:**
    - freeCodeCamp
-     - Complete all 12 challenges for Debugging
-     - 
-  - Codewar
-    - [Do 5 Katas](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=total_completed%20desc)
+     - [x] Complete all 12 challenges for Debugging
     
   **Today's Progress:**
   - Completed all 12 challenges for Debugging. (12 Points added)
@@ -164,22 +145,7 @@
     - [x] Basic Data Structures (5 Points / 20 Points)
     
   - The Web Developer Bootcamp 2022
-    - [] Section 3: HTML: The Essentials
     - [x] Section 18: JavaScript Object Literals (8 Points)
-    
-  - CSS3 in 30 Days
-    - [] Getting Started!
-    - [] How to Download the Course & Theme Files
-    - [] Fancy Buttons
-    
-  - Conquering Responsive Layouts
-    - [] Percentages vs Fixed widths
-    - [] Percentages on the child
-    - [] Why it's a good idea to avoid heights
-    - [] About the challenges
-    - [] Challenge #1
-    - [] Challenge #1 - Starting Files
-    - [] Information about the daily drip
   
   **Today's Progress:**
    - Finished Section 18 and created my flashcards.
@@ -187,6 +153,7 @@
    - Started freeCodeCamp's Basic Data Structure (Completed 5 out of 20 Challenges)
   
   **Thoughts:**
+  
 ---
 
 ### Day 11: October 05, 2022
@@ -195,18 +162,6 @@
   - freeCodeCamp: JavaScript Algorithms & Data Structures
     - [x] Basic Data Structures (10 Points / 20 Points)
     
-  - The Web Developer Bootcamp 2022
-    - [] Section 4: HTML: Next Steps & Semantics
-    - [] Section 19: Repeating Stuff With Loops
-    
-  - CSS3 in 30 Days
-    - [] Sexy Typography
-    
-  - Conquering Responsive Layouts
-    - [] Getting familiar with relative units
-    - [] CSS em and rem explained
-    - [] Why you shouldn't set font sizes using em
-  
   **Today's Progress:**
    - Finished 5 more challenges from freeCodecamp.
    - Downloaded Remnote for studying
