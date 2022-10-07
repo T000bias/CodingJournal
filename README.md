@@ -220,19 +220,20 @@
 
   **Today's Goals:**
   
-  - The Web Developer Bootcamp 2022
-    - [] Section 5: HTML: Forms & Tables
-    - [] Section 20: NEW: Introducing Functions
+  - Frontend Mentors
+    - [x] 3-Column preview card component
     
-  - CSS3 in 30 Days
-    - [] Clipping Images with Shapes
-    
-  - Conquering Responsive Layouts
-    - [] Challenge #1 - Solution
-    - [] Adding in a max-width
-    - [] Challenge #2
+  - CodeWars
+    - [x] Opposites Attract Kata
+    - [x] Invert Values Kata
   
+  - The Web Developer Bootcamp 2022
+    - [x] Section 11: Pricing Panel Project
+    
   **Today's Progress:**
+  - Solved the [opposites attract](https://github.com/T000bias/CodeWars/tree/main/JavaScript%20Solutions/8th%20kyu/opposites%20attract) kata & [invert values](https://github.com/T000bias/CodeWars/tree/main/JavaScript%20Solutions/8th%20kyu/Invert%20values) kata.
+  - Finished the Pricing Panel Project (link coming soon)
+  - Submitted the 3-column [challenge](https://3-column-preview-card-component-frontend-mentor-challenge.vercel.app/) from frontend mentors.
   
   **Thoughts:**
 
@@ -241,17 +242,6 @@
 ### Day 13: October 07, 2022
 
   **Today's Goals:**
-  
-  - The Web Developer Bootcamp 2022
-    - [] Section 6: CSS: The Very Basics
-    - [] Section 21: Leveling Up Our Functions
-    
-  - CSS3 in 30 Days
-    - [] Sexy User Interface Forms
-    
-  - Conquering Responsive Layouts
-    - [] Some extra materail if you're interested
-    - [] CSS Units: vh, vw, vmin, vmax
   
   **Today's Progress:**
   
@@ -262,28 +252,7 @@
 ### Day 14: October 08, 2022
 
   **Today's Goals:**
-  - Frontend Mentor
-    - Product preview card component
-    - QR code component
-    - Order summary component
-    - Stats preview card component
-    - Profile card component
-    - Single price grid component
-    - Skilled e-learning landing page
-    
-  - The Web Developer Bootcamp 2022
-    - Section 7: The World of CSS Selectors
-    - Section 22: Callbacks & Array Methods
-    
-  - CSS3 in 30 Days
-    - [] Useful Broken Images
-    
-  - Conquering Responsive Layouts
-    - [] Challenge #2 Solution
-    - [] Challenge #3
-    - [] Challenge-design-specs.pdf
-    
-  
+
   **Today's Progress:**
   
   **Thoughts:**
@@ -293,27 +262,6 @@
 ### Day 15: October 09, 2022
 
   **Today's Goals:**
-  - Frontend Mentor
-    - Equalizer landing page
-    - Meet landing page
-    - 3-column preview card component
-    - Social proof section
-    - Four Card feature section
-    - Single price grid component
-    - Huddle landing page with a single introductory section
-    
-  - The Web Developer Bootcamp 2022
-    - Section 7: The World of CSS Selectors
-    - Section 23: Newer JavaScrip Features
-    
-  - CSS3 in 30 Days
-    - [] Print Styles
-    
-  - Conquering Responsive Layouts
-    - [] Review of the first week
-    - [] Why you shouldn't ues 'em's for font size
-    - [] A Tale of width and max-width
-    
   
   **Today's Progress:**
   
