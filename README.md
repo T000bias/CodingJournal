@@ -200,8 +200,10 @@
 ### Day 13: October 07, 2022
 
   **Today's Goals:**
-  - The Web Developer Bootcamp 2022
-    - [x] Section 13: OPTIONAL Museum Of Candy Project
+  - [x] The Web Developer Bootcamp 2022: Section 13: OPTIONAL Museum Of Candy Project
+  - [] freeCodeCamp: ES6 Challenges
+  - [] freeCodeCamp: Debugging Challenges (Review)
+  - [] freeCodeCamp: Basic Data Structures (Review/Continuation)
   
   
   **Today's Progress:**
