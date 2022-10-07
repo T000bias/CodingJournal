@@ -232,7 +232,7 @@
     
   **Today's Progress:**
   - Solved the [opposites attract](https://github.com/T000bias/CodeWars/tree/main/JavaScript%20Solutions/8th%20kyu/opposites%20attract) kata & [invert values](https://github.com/T000bias/CodeWars/tree/main/JavaScript%20Solutions/8th%20kyu/Invert%20values) kata.
-  - Finished the Pricing Panel Project (link coming soon)
+  - Finished the [Pricing Panel Project](https://github.com/T000bias/100DaysOfCode/tree/main/Pricing%20Panel%20Project%20Finished)
   - Submitted the 3-column [challenge](https://3-column-preview-card-component-frontend-mentor-challenge.vercel.app/) from frontend mentors.
   
   **Thoughts:**
