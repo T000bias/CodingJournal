@@ -174,7 +174,9 @@
 ### Day 12: October 06, 2022
 
   **Today's Goals:**
-  
+  - freeCodeCamp
+    - [x] [Iterate Through All an Array's Items Using For Loops}(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
+    
   - Frontend Mentors
     - [x] 3-Column preview card component
     
@@ -189,6 +191,7 @@
   - Solved the [opposites attract](https://github.com/T000bias/CodeWars/tree/main/JavaScript%20Solutions/8th%20kyu/opposites%20attract) kata & [invert values](https://github.com/T000bias/CodeWars/tree/main/JavaScript%20Solutions/8th%20kyu/Invert%20values) kata.
   - Finished the [Pricing Panel Project](https://github.com/T000bias/100DaysOfCode/tree/main/Pricing%20Panel%20Project%20Finished)
   - Submitted the 3-column [challenge](https://3-column-preview-card-component-frontend-mentor-challenge.vercel.app/) from frontend mentors.
+  - Completed 1 Challenge from freeCodeCamp
   
   **Thoughts:**
 
@@ -197,10 +200,14 @@
 ### Day 13: October 07, 2022
 
   **Today's Goals:**
+  - The Web Developer Bootcamp 2022
+    - [x] Section 13: OPTIONAL Museum Of Candy Project
+  
   
   **Today's Progress:**
   
   **Thoughts:**
+  - Used Bootstrap to finish the "[Museum Of Candy](https://github.com/T000bias/100DaysOfCode/tree/main/Musuem%20of%20Candy%20Project)" project; Planning on re-doing the project and add more features.
   
 ---
 
