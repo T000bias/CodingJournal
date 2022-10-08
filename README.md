@@ -201,7 +201,7 @@
 
   **Today's Goals:**
   - [x] The Web Developer Bootcamp 2022: Section 13: OPTIONAL Museum Of Candy Project
-  - [] freeCodeCamp: ES6 Challenges
+  - [x] freeCodeCamp: ES6 Challenges
   - [] freeCodeCamp: Debugging Challenges (Review)
   - [] freeCodeCamp: Basic Data Structures (Review/Continuation)
   
@@ -210,6 +210,7 @@
   
   **Thoughts:**
   - Used Bootstrap to finish the "[Museum Of Candy](https://github.com/T000bias/100DaysOfCode/tree/main/Musuem%20of%20Candy%20Project)" project; Planning on re-doing the project and add more features.
+  - Finished all freeCodeCamp's ES6 Challenges; plan to review in the future.
   
 ---
 
