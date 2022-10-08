@@ -217,8 +217,10 @@
 ### Day 14: October 08, 2022
 
   **Today's Goals:**
+  - [x] Codewar Challenge
 
   **Today's Progress:**
+  - Completed this codewar [challenge](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce).
   
   **Thoughts:**
   
