@@ -206,7 +206,7 @@
   
   
   **Today's Progress:**
-    - Used Bootstrap to finish the "[Museum Of Candy](https://github.com/T000bias/100DaysOfCode/tree/main/Musuem%20of%20Candy%20Project)" project; Planning on re-doing the project and add more features.
+   - Used Bootstrap to finish the "[Museum Of Candy](https://github.com/T000bias/100DaysOfCode/tree/main/Musuem%20of%20Candy%20Project)" project; Planning on re-doing the project and add more features.
   - Finished all freeCodeCamp's ES6 Challenges; plan to review in the future.
   
   
