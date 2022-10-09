@@ -218,9 +218,11 @@
 
   **Today's Goals:**
   - [x] Codewar Challenge
+  - [x] freeCodeCamp: Object Oriented Programming (13/26)
 
   **Today's Progress:**
   - Completed this codewar [challenge](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce).
+  - Completed half of the freeCodeCamp's Object Oriented Programming challenges.
   
   **Thoughts:**
   
