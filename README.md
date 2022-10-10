@@ -231,13 +231,31 @@
 ### Day 15: October 09, 2022
 
   **Today's Goals:**
+  - [x] Read: The JavaScript Way (Chapter 7)
+  - [] Read: JavaScript Info (Array Methods)
+  - [] Read: The JavaScript Way (Chapter 6)
+  - [] Read: The Eloquent JavaScript (Chapter 4)
+  - [] Do: JavaScript30 (Day 04 Array Cardio)
   
   **Today's Progress:**
+  - Got stuck on the last question for "The Javascript Way Ch-7". Plan on digging deeper into the prompt method. Link [here](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)
+  - 
   
   **Thoughts:**
   
 
 ---
+
+### Day 16: October 10, 2022
+
+  **Today's Goals:**
+  
+  **Today's Progress:**
+  
+  **Thoughts:**
+  
+---
+
 Project Goals:
 
 Portfolio
