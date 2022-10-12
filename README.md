@@ -238,7 +238,7 @@
   **Today's Progress:**
   - Got stuck on the last question for "The Javascript Way Ch-7". Plan on digging deeper into the prompt method. Link [here](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)
   - Got most of the JavaScript Info chapter complete; Finishing it tomorrow.
-  - 
+
   
   **Thoughts:**
   
@@ -250,11 +250,13 @@
   **Today's Goals:**
   - [] Read: The JavaScript Way (Chapter 6)
   - [] Read: The Eloquent JavaScript (Chapter 4)
-  - [] Do: JavaScript30 (Day 04 Array Cardio)
+  - [x] Do: JavaScript30 (Day 04 Array Cardio)
   - [] Read: JavaScript Info (Array Methods)
 
   
   **Today's Progress:**
+  - Watched frontend Masters "[The Last Algorithms Course You'll Need]" and plan on watching it throughout the week.
+  - Did the JavaScript30 Array Cardio and was confused on the methods; I plan on revisiting this challenge daily until a full understanding.
   
   **Thoughts:**
   
