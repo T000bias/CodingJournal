@@ -258,7 +258,7 @@
   
 ---
 
-### Day 16: October 12, 2022
+### Day 17: October 12, 2022
 
   **Today's Goals:**
   - [x] Read: The JavaScript Way (Chapter 6)
