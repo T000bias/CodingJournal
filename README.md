@@ -248,15 +248,26 @@
 ### Day 16: October 11, 2022
 
   **Today's Goals:**
-  - [] Read: The JavaScript Way (Chapter 6)
-  - [] Read: The Eloquent JavaScript (Chapter 4)
   - [x] Do: JavaScript30 (Day 04 Array Cardio)
-  - [] Read: JavaScript Info (Array Methods)
+
+  **Today's Progress:**
+  - Watched frontend Masters "[The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)" and plan on watching it throughout the week.
+  - Did the JavaScript30 Array Cardio and was confused on the methods; I plan on revisiting this challenge daily until a full understanding.
+  
+  **Thoughts:**
+  
+---
+
+### Day 16: October 12, 2022
+
+  **Today's Goals:**
+  - [x] Read: The JavaScript Way (Chapter 6)
+  - [x]Review: JavaScript30 (Day 04 Array Cardio)
 
   
   **Today's Progress:**
-  - Watched frontend Masters "[The Last Algorithms Course You'll Need]" and plan on watching it throughout the week.
-  - Did the JavaScript30 Array Cardio and was confused on the methods; I plan on revisiting this challenge daily until a full understanding.
+  - Read chapter 6 of "[The JavaScript Way](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md)"
+  - Review Array Cardio from [JavaScript30](https://courses.wesbos.com/account/access/615283a1e15af66ceff72adc)
   
   **Thoughts:**
   
