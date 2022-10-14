@@ -277,9 +277,11 @@
 
   **Today's Goals:**
   - [x] [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
+  - [x] [JavaScript Interview Questions](https://github.com/lydiahallie/javascript-questions)
  
   **Today's Progress:**
   - Created anki deck and finished reading chapter 4 of eloquent javascript.
+  - Studied JavaScript Questions
   
   **Thoughts:**
   
