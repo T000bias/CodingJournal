@@ -273,6 +273,30 @@
   
 ---
 
+### Day 18: October 13, 2022
+
+  **Today's Goals:**
+  - [Eloquent JavaScript Chapter 3](https://eloquentjavascript.net/03_functions.html#stack)
+  - [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
+  - [Array Methods Review](https://javascript.info/array-methods)
+  - [Array.prototype.reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+  - [Array.prototype.map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+  - [Array.prototype.sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+  - [Array.prototype.reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+  - [Array.prototype.slice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
+  - [Array.prototype.splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+  - [Array.prototype.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+  - [The JS Way](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)
+  - [JavaScript30: Array Cardo 1](https://courses.wesbos.com/account/access/615283a1e15af66ceff72adc)
+  - [The Ultimate Guide to JavaScript Algorithms Courses](http://web.archive.org/web/20210425214801/https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
+  - [JavaScript.info - Objects](https://javascript.info/object)
+ 
+  **Today's Progress:**
+  
+  **Thoughts:**
+  
+---
+
 Project Goals:
 
 Portfolio
