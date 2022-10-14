@@ -332,7 +332,6 @@ Portfolio
     - [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)  
     - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
     - [React Documentation: Main Concepts](https://reactjs.org/docs/hello-world.html)  
-    - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
     - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
     - [Algorithms & Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
     - [Big O Notation](https://www.youtube.com/watch?v=Mo4vesaut8g)
