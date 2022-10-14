@@ -276,6 +276,18 @@
 ### Day 18: October 13, 2022
 
   **Today's Goals:**
+  - [x] [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
+ 
+  **Today's Progress:**
+  - Created anki deck and finished reading chapter 4 of eloquent javascript.
+  
+  **Thoughts:**
+  
+---
+
+### Day 19: October 14, 2022
+
+  **Today's Goals:**
   - [Eloquent JavaScript Chapter 3](https://eloquentjavascript.net/03_functions.html#stack)
   - [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
   - [Array Methods Review](https://javascript.info/array-methods)
