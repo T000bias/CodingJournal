@@ -262,7 +262,7 @@
 
   **Today's Goals:**
   - [x] Read: The JavaScript Way (Chapter 6)
-  - [x]Review: JavaScript30 (Day 04 Array Cardio)
+  - [x] Review: JavaScript30 (Day 04 Array Cardio)
 
   
   **Today's Progress:**
@@ -317,14 +317,15 @@
   - [x] [CodeWars](https://www.codewars.com/kata/5bb904724c47249b10000131/javascript)
   - [Eloquent JavaScript Chapter 3](https://eloquentjavascript.net/03_functions.html#stack)
   - [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
-  - [Array Methods Review](https://javascript.info/array-methods)
-  - [The JS Way](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)
+  - [Array Methods Review 2](https://javascript.info/array-methods)
+  - [x] [The JS Way](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)
   - [JavaScript30: Array Cardo 1](https://courses.wesbos.com/account/access/615283a1e15af66ceff72adc)
-  - [The Ultimate Guide to JavaScript Algorithms Courses](http://web.archive.org/web/20210425214801/https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
   - [JavaScript.info - Objects](https://javascript.info/object)
  
   **Today's Progress:**
   - Solved 1 Kata from codewars; needed to look into functions I never used before.
+  - Reviewed Chapter 7 of "The JavaScript Way".
+  - Added new cards to anki deck
   
   **Thoughts:**
   
