@@ -331,6 +331,22 @@
   
 ---
 
+### Day 21: October 16, 2022
+
+  **Today's Goals:**
+  - [] [CodeWars](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)
+  - [] [Eloquent JavaScript Chapter 3](https://eloquentjavascript.net/03_functions.html#stack)
+  - [] [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
+  - [] [Array Methods Review 2](https://javascript.info/array-methods)
+  - [] [The JS Way](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)
+  - [] [JavaScript30: Array Cardo 1 Review 2](https://courses.wesbos.com/account/access/615283a1e15af66ceff72adc)
+  - [] [JavaScript.info - Objects](https://javascript.info/object)
+ 
+  **Today's Progress:**
+  
+  **Thoughts:**
+  
+---
 Project Goals:
 
 Portfolio
