@@ -175,7 +175,7 @@
 
   **Today's Goals:**
   - freeCodeCamp
-    - [x] [Iterate Through All an Array's Items Using For Loops}(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
+    - [x] [Iterate Through All an Array's Items Using For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
     
   - Frontend Mentors
     - [x] 3-Column preview card component
