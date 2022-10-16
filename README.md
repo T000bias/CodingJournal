@@ -337,6 +337,7 @@
   **Today's Goals:**
   - [] [CodeWars](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=sort_date%20desc)
     - 27/57
+  - [] [Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
   - [] [Eloquent JavaScript Chapter 3](https://eloquentjavascript.net/03_functions.html#stack)
   - [] [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
   - [] [Array Methods Review 2](https://javascript.info/array-methods)
