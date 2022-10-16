@@ -314,7 +314,8 @@
 ### Day 20: October 15, 2022
 
   **Today's Goals:**
-  - [x] [CodeWars](https://www.codewars.com/kata/5bb904724c47249b10000131/javascript)
+  - [x] [CodeWars](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=sort_date%20desc)
+    - 27/57 Katas
   - [Eloquent JavaScript Chapter 3](https://eloquentjavascript.net/03_functions.html#stack)
   - [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
   - [Array Methods Review 2](https://javascript.info/array-methods)
@@ -334,7 +335,8 @@
 ### Day 21: October 16, 2022
 
   **Today's Goals:**
-  - [] [CodeWars](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)
+  - [] [CodeWars](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=sort_date%20desc)
+    - 27/57
   - [] [Eloquent JavaScript Chapter 3](https://eloquentjavascript.net/03_functions.html#stack)
   - [] [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
   - [] [Array Methods Review 2](https://javascript.info/array-methods)
