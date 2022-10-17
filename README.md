@@ -335,21 +335,71 @@
 ### Day 21: October 16, 2022
 
   **Today's Goals:**
-  - [] [CodeWars](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=sort_date%20desc)
-    - 27/57
-  - [] [Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
+  - [x] [CodeWars](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&beta=false&order_by=sort_date%20desc)
+    - 28/57
+  - [x] [Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
+    - Review/Rewatch October 18
+  - [x] [The JavaScript Way Ch 6](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md)
+    - Review/Re-read October 18
+  - [x] [3 Ways to build a Flight Widget(JavaScript + Node.js + REST API + Database](https://www.youtube.com/watch?v=_uSrE-gIdFc&t=3s)
+    - Review/Rewatch October 18   
+ 
+  **Today's Progress:**
+  - Started learning about OOP and watched a freeCodeCamp video on the subject.
+  - Read and reviewed "The JavaScript Way" chapter 6.
+  - Watched the freeCodeCamp flight widget project and did the pure JavaScript project; planning to review in the future
+  - FINALLY figured out this one codewar [kata](https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/javascript)
+  
+  **Thoughts:**
+  
+---
+
+### Day 22: October 17, 2022
+
+  **Today's Goals:**
+  - [] [JavaScript30: Array Cardo 1 Review 2](https://courses.wesbos.com/account/access/615283a1e15af66ceff72adc)
+  - [] [Array Methods Review 2](https://javascript.info/array-methods)
   - [] [Eloquent JavaScript Chapter 3](https://eloquentjavascript.net/03_functions.html#stack)
   - [] [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
-  - [] [Array Methods Review 2](https://javascript.info/array-methods)
-  - [] [The JS Way](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)
-  - [] [JavaScript30: Array Cardo 1 Review 2](https://courses.wesbos.com/account/access/615283a1e15af66ceff72adc)
   - [] [JavaScript.info - Objects](https://javascript.info/object)
- 
+  - [] [Array CodeWars Playlist](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&xids=played&beta=false&order_by=total_completed%20desc)
+    - [] Find the first non-consecutive number
+    - [] Swap Values
+    - [] Printing Array elements with Comma delimiters
+    - [] SpeedCode#2 - Array Madness
+    - [] Find the Difference in Age between Oldest and Youngest Family Members
+    - [] Add Length
+    - [] CSV representation of array
+    - [] Take an Arrow to the knee, Functionally
+    - [] Duck Duck Goose
+    - [] UEFA EURO 2016
+    - [] Enumerable Magic #20 - Cascading Subsets
+    - [] Arguments to Binary addition
+
+
   **Today's Progress:**
   
   **Thoughts:**
   
 ---
+
+### Day 23: October 18, 2022
+
+  **Today's Goals:**
+  - [] [Intro to Object Oriented Programming Review 1](https://www.youtube.com/watch?v=SiBw7os-_zI)
+  - [] [3 Ways to build a Flight Widget(JavaScript + Node.js + REST API + Database Review 1](https://www.youtube.com/watch?v=_uSrE-gIdFc&t=3s)
+  - [] [The JavaScript Way Ch 6 Review 1](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md)
+
+  
+
+  **Today's Progress:**
+  
+  **Thoughts:**
+  
+---
+
+
+
 Project Goals:
 
 Portfolio
