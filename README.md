@@ -357,56 +357,11 @@
 ### Day 22: October 17, 2022
 
   **Today's Goals:**
-  - [] [JavaScript30: Array Cardo 1 Review 2](https://courses.wesbos.com/account/access/615283a1e15af66ceff72adc)
-  - [] [Learn JavaScript Objects](https://www.youtube.com/watch?v=75TQEQ6wxAE&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=22)
-  - [] [Master The All Important CSS Box Model - Colt's Code Camp](https://www.youtube.com/watch?v=M1xEi_BBW1I)
-  - [] [CSS in 30 Days](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU)
-    - Style Fancy Buttons Day 1   
-  - [] [Array Methods Review 2](https://javascript.info/array-methods)
-  - [] [Eloquent JavaScript Chapter 3](https://eloquentjavascript.net/03_functions.html#stack)
-  - [] [Eloquent JavaScript Chapter 4](https://eloquentjavascript.net/04_data.html)
-  - [] [JavaScript.info - Objects](https://javascript.info/object)
-  - [] [Array CodeWars Playlist](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&xids=played&beta=false&order_by=total_completed%20desc)
-    - [] Find the first non-consecutive number
-    - [] Swap Values
-    - [] Printing Array elements with Comma delimiters
-    - [] SpeedCode#2 - Array Madness
-    - [] Find the Difference in Age between Oldest and Youngest Family Members
-    - [] Add Length
-    - [] CSV representation of array
-    - [] Take an Arrow to the knee, Functionally
-    - [] Duck Duck Goose
-    - [] UEFA EURO 2016
-    - [] Enumerable Magic #20 - Cascading Subsets
-    - [] Arguments to Binary addition
-
+  - [x] [Learn JavaScript Objects](https://www.youtube.com/watch?v=75TQEQ6wxAE&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=22)
 
   **Today's Progress:**
-  - [] [Essential CSS Text Properties](https://www.youtube.com/watch?v=v9Hqy5Nxthc&list=PLblA84xge2_xNtaFnZhefjFbnDrpySKD3&index=10)
-  
-  - Class 22
-    - [Practice JavaScript Objects!](https://www.youtube.com/watch?v=LTda62-jyoM&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=22)
-    - [] [Object-oriented Programming in JavaScript: Made Super Simple | Most](https://www.youtube.com/watch?v=PFmuCDHHpwk)
-    - [] [Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/?ocid=aid3038567_RequestedResources_ThankYou_DevComm&eventId=LearnwithLeonstream_ggNxpTZxIzb_)
-    - [] [GitHub Tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE)
-    - [] [JavaScript.info](https://javascript.info/object)
-    - [] [OOP](https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219)
-    - [] [Push Project001](https://github.com/leonnoel/100devs-calculator)
-
-
-  - [] [Array CodeWars Playlist](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Arrays&xids=played&beta=false&order_by=total_completed%20desc)
-    - [] Find the first non-consecutive number
-    - [] Swap Values
-    - [] Printing Array elements with Comma delimiters
-    - [] SpeedCode#2 - Array Madness
-    - [] Find the Difference in Age between Oldest and Youngest Family Members
-    - [] Add Length
-    - [] CSV representation of array
-    - [] Take an Arrow to the knee, Functionally
-    - [] Duck Duck Goose
-    - [] UEFA EURO 2016
-    - [] Enumerable Magic #20 - Cascading Subsets
-    - [] Arguments to Binary addition
+  - Finished watching class 22 and plan on reviewing tomorrow.
+ 
   **Thoughts:**
   
 ---
