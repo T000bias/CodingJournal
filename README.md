@@ -474,18 +474,32 @@ Coding Journal
     - [] UEFA EURO 2016
     - [] Enumerable Magic #20 - Cascading Subsets
     - [] Arguments to Binary addition
+ 
 
   **Today's Progress:**
   
   **Thoughts:**
   
 ---
+### Docket for October 23 thru October 29 ###
+- [AWS glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
+- [Whitepaper: Overview of Amazon Web Services](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
+- [AWS Fundamentals: Overview](https://aws.amazon.com/getting-started/cloud-essentials/)
+- [What is cloud computing?](https://aws.amazon.com/what-is-cloud-computing/)
+- [Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)
+- [Cloud computing with AWS](https://aws.amazon.com/what-is-aws/)
+- [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
+- [Strict MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+- [NPM Docs](https://docs.npmjs.com/) 
+- [Chrome Developers](https://developer.chrome.com/docs/devtools/)
+- []()
+
 
 ### Day 28: October 24, 2022
 
   **Entries**
   - Reading chapter 1 of "JavaScript Cookbook" by Adam D. Scott, Matthew MacDonald, and Shelly Powers
-  -
+  - Finished AWS Cloud Practitiner Essentials Module 1
   
 ---
 
