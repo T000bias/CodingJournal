@@ -2,9 +2,6 @@ Coding Journal
 
 ## Navigation (Work in progress)
 
-### Total Points
-  0013/0778
-
 ### Day 1: September 06, 2022
 **Today's Goals**:
   - CodeWars
