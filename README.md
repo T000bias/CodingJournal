@@ -2,6 +2,8 @@ Coding Journal
 
 ## Navigation (Work in progress)
 
+## testing
+
 ### Day 1: September 06, 2022
 **Today's Goals**:
   - CodeWars
