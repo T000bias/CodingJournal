@@ -61,37 +61,44 @@
   - [] [Recursion in Programming](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
   - [] JavaScript Algorithms & Data Structures Masterclass
   - [x] [Object-Oriented Programming in JavaScript Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk&t=31s)
+  - [ ] [A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/)
+  - [ ] [The Ultimate Guide to JavaScript Algorithms Courses](http://web.archive.org/web/20210616161653/https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
 
 
 ## November Schedule
 
  ### 11/02/2022
-  - [Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
-  - [OOP Meaning - What is OOP?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/)
+  - [X] [OOP Meaning - What is OOP?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/)
   - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
-  - [Essential JavaScript String Methods](https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961)
+  - [x] [Essential JavaScript String Methods](https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961)
   - [What the Flexbox?](https://courses.wesbos.com/account/access/600cf1fb05cf86435dcdd8bb) (Up to Section 10)
     - [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/)
     - [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)  
+   
  ### 11/03/2022
-  - [Object-Oriented Programming in JavaScript Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk&t=31s)
   - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+  - [Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
+  - [Essential JavaScript String Methods](https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961)
   - [The JS Concepts You Should Know Before Learning React](https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/)
   - [Essential JavaScript String Methods](https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961)
   - [flexbox froggy](https://flexboxfroggy.com/)
   - [What the Flexbox?](https://courses.wesbos.com/account/access/600cf1fb05cf86435dcdd8bb) (Finish)
     - [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
     - [QR Code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+    
  ### 11/04/2022
   - [Object Oriented Programming is not what I thought](https://www.youtube.com/watch?v=TbP2B1ijWr8&t=27s)
   - [flexbox Defense](http://www.flexboxdefense.com/)
   - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
   - [Learn to Code Advanced HTML & CSS ](https://learn.shayhowe.com/advanced-html-css/)
+  
  ### 11/05/2022
+  - [Object-Oriented Programming in JavaScript Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk&t=31s)
   - [Learn to Code Advanced HTML & CSS ](https://learn.shayhowe.com/advanced-html-css/)
   - [flexbox zombies](http://www.flexboxdefense.com/)
     - [order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
     - [Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+    
  ### 11/06/2022
   - [Learn to Code Advanced HTML & CSS ](https://learn.shayhowe.com/advanced-html-css/)
   - [Learn Flexbox with webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
