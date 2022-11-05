@@ -67,79 +67,21 @@
 
 ## November Schedule
 
- ### 11/04/2022
-  - [] [It begins with "display:flex"](https://flexboxpatterns.com/display-flex)
-  - [] [Use Cases For Flexbox](https://www.smashingmagazine.com/2018/10/flexbox-use-cases/)
-  
  ### 11/05/2022
-  - [] [Splitting things apart](https://flexboxpatterns.com/splitting-things-apart)
-  - [] [How to Build CSS-only Smart Layouts with Flexbox](https://www.toptal.com/front-end/how-to-build-css-only-smart-layouts-with-flexbox)
-  
  ### 11/06/2022
-  - [] [Common CSS Flexbox Layout Patterns](https://tobiasahlin.com/blog/common-flexbox-patterns/#stretch-all-fixed-spacing)
-  - [] [Learn Flexbox with webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
-  - [] [Changing direction](https://flexboxpatterns.com/changing-direction)
-    
  ### 11/07/2022
-  - [] [CodeAcademy CSS Flexbox](https://www.codecademy.com/courses/learn-intermediate-css/lessons/learn-flexbox/exercises/what-is-flexbox)
-  - [] [Stay centered](https://flexboxpatterns.com/display-flex)
-  - [] [CSS Flexbox Project](https://freshman.tech/flexbox-mobile-app/?ref=related-posts)
-  
  ### 11/08/2022
-  - [] [CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)
-  - [] [Let's get cracy](https://flexboxpatterns.com/lets-get-crazy)
-  - [] [How to build a Navigation Bar with CSS Flexbox](https://freshman.tech/flexbox-navbar/?ref=related-posts)
-
-
  ### 11/09/2022
-  - [] [CSS Flexbox tutorial](https://www.quackit.com/css/flexbox/tutorial/flexbox_introduction.cfm)
-  - [] [How to build a responsive feature list with CSS Flexbox](https://freshman.tech/feature-list/?ref=related-posts)
-  - [] [Going in reverse](https://flexboxpatterns.com/going-in-reverse)
-
-
  ### 11/10/2022
-  - [] [Learn CSS Flexbox by building a photo card component](https://freshman.tech/flexbox/?ref=related-posts)
-  - [] [Cornering content](https://flexboxpatterns.com/cornering-content)
-  - 
  ### 11/11/2022
-  - [] [How to build a Mobile App Layout with CSS Flexbox](https://freshman.tech/flexbox-mobile-app/)
-  - [] [Wrapping content](https://flexboxpatterns.com/wrapping-content)
-  - 
  ### 11/12/2022
-  - [] [Flexbox Real World Examples](https://ishadeed.com/article/flexbox-real-world-use-cases/)
-  - [] [Laying Out A Flexible Future for Web Design with Flexbox Best Practices](https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/)
- 
  ### 11/13/2022
-  - [] [Flexbox Patterns](https://tobiasahlin.com/blog/common-flexbox-patterns/#stretch-all-fixed-spacing)
-  - [] [Flexbox Is As Easy AS Pie: Designing CSS Layouts](https://www.smashingmagazine.com/2013/05/centering-elements-with-flexbox/)
-  
  ### 11/14/2022
-  - [] [Introduction to Flexbox](https://quasar.dev/layout/grid/introduction-to-flexbox)
-  - [] [Flexbox Is As Easy As Pie: Designing CSS Layouts](https://www.smashingmagazine.com/2013/05/centering-elements-with-flexbox/)
  ### 11/15/2022
-  - [] [Layout Patterns](https://web.dev/patterns/layout/)
-
-
  ### 11/16/2022
-  - [] [Flexbox Templates](https://www.quackit.com/html/templates/css_flexbox_templates.cfm)
-  - [] [The Flexbox Reading list Techniques & Tools](https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/)
-
-
  ### 11/17/2022
-  - [] [CSS Flexbox 101-Introduction and sample patterns](http://www.javascriptkit.com/dhtmltutors/css-flexbox.shtml)
-  - [] [Harnessing Flexbox for Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
-
-
  ### 11/18/2022
-  - [] [A Visual Guide to CSS3 Flexbox Properties](https://www.digitalocean.com/community/cheatsheets/css-flexbox?utm_medium=content_acq&utm_source=css-tricks&utm_campaign=&utm_content=awareness_bestsellers)
-  - [] [The New Layout Standard For the Web: CSS Grid, Flexbox and Box Alignment](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-box-alignment-new-layout-standard/)
-
-
-  - 
  ### 11/19/2022
-  - [] [Laying Out A flexible future for web design with flexbox best practices](https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/)
-
-
  ### 11/20/2022
  ### 11/21/2022
  ### 11/22/2022
